@@ -1,0 +1,7 @@
+campaign_id,campaign_name,platform,objective,audience,region,daily_budget,base_cpc,base_cvr,aov
+META_PROSPECTING_US,US Prospecting | Broad,Meta,Purchase,Prospecting,US,900,1.18,0.031,86
+META_RETARGETING_US,US Retargeting | 30 Day,Meta,Purchase,Retargeting,US,420,0.82,0.072,93
+META_PROSPECTING_UK,UK Prospecting | Broad,Meta,Purchase,Prospecting,UK,380,0.91,0.027,78
+GOOGLE_BRAND_US,US Search | Brand,Google,Purchase,Brand Search,US,350,1.42,0.105,91
+GOOGLE_NONBRAND_US,US Search | Nonbrand,Google,Purchase,Nonbrand Search,US,720,2.14,0.041,101
+GOOGLE_SHOPPING_US,US Shopping | Core,Google,Purchase,Shopping,US,610,1.06,0.052,97
